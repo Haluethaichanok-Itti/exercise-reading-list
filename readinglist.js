@@ -16,8 +16,6 @@ addForm.addEventListener('submit',function(e){
 
 // //create element
  const li = document.createElement('li');
-
- li.innerHTML = addForm;
  list.appendChild(li);
   
  
